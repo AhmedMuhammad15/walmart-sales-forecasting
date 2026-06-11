@@ -30,4 +30,4 @@ streamlit run app.py
 Upload your Walmart csv dataset in the sidebar to activate the dashboard!
 
 🌐 Live Demo
-You can try out the live application here: [Insert Streamlit Link Here after Deployment]
+You can try out the live application here: https://walmart-sales-forecasting-analytics.streamlit.app/
